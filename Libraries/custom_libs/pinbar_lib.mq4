@@ -9,10 +9,3 @@
 #property version "1.00"
 #property strict
 
-//+------------------------------------------------------------------+
-//| int pinbarIdentifier : 
-//+------------------------------------------------------------------+
-bool isBullPinbar(int index)
-{
-    double lower = 
-}
