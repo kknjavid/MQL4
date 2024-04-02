@@ -1,8 +1,0 @@
-0	12:21:59.070	Custom indicator env_ma_indicator EURUSD_i,M5: loaded successfully
-0	12:21:59.140	env_ma_indicator EURUSD_i,M5: initialized
-0	12:27:33.785	env_ma_indicator EURUSD_i,M5: uninit reason 9
-0	12:27:33.943	Custom indicator env_ma_indicator EURUSD_i,M5: removed
-0	23:24:18.286	Custom indicator env_ma_indicator EURUSD_i,M5: loaded successfully
-0	23:24:18.401	env_ma_indicator EURUSD_i,M5: initialized
-0	23:35:32.977	env_ma_indicator EURUSD_i,M5: uninit reason 9
-0	23:35:33.107	Custom indicator env_ma_indicator EURUSD_i,M5: removed

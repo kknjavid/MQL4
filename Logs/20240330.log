@@ -1,0 +1,14 @@
+0	00:00:02.359	Custom indicator pinbar EURUSD_i,M5: loaded successfully
+0	00:00:03.556	pinbar EURUSD_i,M5: initialized
+0	00:00:17.769	pinbar EURUSD_i,M5: uninit reason 3
+0	00:00:17.790	pinbar EURUSD_i,M1: initialized
+0	00:01:56.056	pinbar EURUSD_i,M1: uninit reason 1
+0	00:01:56.063	Custom indicator pinbar EURUSD_i,M1: removed
+0	00:20:59.969	Custom indicator pinbar EURUSD_i,M1: loaded successfully
+0	00:21:01.585	pinbar EURUSD_i,M1: initialized
+0	00:21:53.038	pinbar EURUSD_i,M1: uninit reason 2
+0	00:21:53.047	Custom indicator pinbar EURUSD_i,M1: removed
+0	00:21:53.088	Custom indicator pinbar EURUSD_i,M1: loaded successfully
+0	00:21:53.145	pinbar EURUSD_i,M1: initialized
+0	01:08:16.306	pinbar EURUSD_i,M1: uninit reason 1
+0	01:08:16.313	Custom indicator pinbar EURUSD_i,M1: removed
